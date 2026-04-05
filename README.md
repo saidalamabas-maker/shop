@@ -1,2 +1,1 @@
-# shop
-project shop
+Simple Shop PWA Project
